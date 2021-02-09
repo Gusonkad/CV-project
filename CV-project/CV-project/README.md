@@ -1,2 +1,0 @@
-# CV-project
-my CV
