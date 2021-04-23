@@ -445,9 +445,8 @@ body {
       flex-wrap: wrap;
       flex-direction: column;
       height: auto;
-      margin: 0 auto;
-      margin-top: 10px;
-      padding-top: 10px;
+      margin-top: 2px;
+      padding-top: 40px;
       position: relative;
       box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
     }
@@ -457,7 +456,9 @@ body {
     .Info-conteiner {
       text-align: center;
     }
-
+    .Info-conteiner-text {
+      text-align: left;
+    }
     #projects {
       text-align: left;
     }
@@ -497,8 +498,8 @@ body {
     flex-direction: column;
     height: auto;
     margin: 0 auto;
-    margin-top: 5px;
-    padding-top: 10px;
+    margin-top: 2px;
+    padding-top: 40px;
     position: relative;
     box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
   }
