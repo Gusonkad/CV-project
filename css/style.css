@@ -216,6 +216,9 @@ body {
 .Info-conteiner {
   margin-bottom: 40px;
 }
+.Info-conteiner i {
+  padding-bottom: 0px;
+}
 
 .About-me-title {
   font-size: 22px;
@@ -302,6 +305,22 @@ body {
 
 .Education-conteiner {
   margin-top: 44px;
+}
+.java-script {
+  padding-left: 2px;
+  padding-right: 4px;
+  vertical-align: middle;
+}
+.react {
+  padding-left: 6px;
+  padding-right: 4px;
+  vertical-align: middle;
+}
+
+.node {
+  padding-left: 6px;
+  padding-right: 4px;
+  vertical-align: middle;
 }
 
 .Education-title {
