@@ -216,6 +216,15 @@ body {
 .Info-conteiner {
   margin-bottom: 40px;
 }
+
+.Info-conteiner-text {
+  font-size: 14px;
+  line-height: 22px;
+}
+.Info-conteiner-text .Main-tech {
+  font-weight: 600;
+}
+
 .Info-conteiner i {
   padding-bottom: 0px;
 }
