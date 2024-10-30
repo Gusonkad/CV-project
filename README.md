@@ -1,5 +1,5 @@
 ## My CV page:
-[![Header](https://github.com/Gusonkad/CV-project/blob/main/img/gusonkad-cv.png)](https://gusonkadcv.netlify.app/)
+[![Header](https://github.com/Gusonkad/CV-project/blob/main/img/gusonkadcv.png)](https://gusonkadcv.netlify.app/)
 
 
 ### Languages and tools:
